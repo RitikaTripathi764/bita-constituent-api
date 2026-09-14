@@ -1,0 +1,2 @@
+# Preserve the recruiter CSV bytes across Windows/Linux checkouts.
+data/index_constituents_sample.csv -text
